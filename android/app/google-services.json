@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "815927388460",
+    "project_id": "ninja-brew-crew-20ac7",
+    "storage_bucket": "ninja-brew-crew-20ac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815927388460:android:4eea06f16a900d193ca489",
+        "android_client_info": {
+          "package_name": "ug.rtl.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815927388460-v1ehsqajv5lt34fj5v2c68bqrt5nfnde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ug.rtl.brew_crew",
+            "certificate_hash": "d2b0e06438e8c1d5de4842b1d9ac14a6030649ab"
+          }
+        },
+        {
+          "client_id": "815927388460-kp9ihak2ud6u0kcu0fkeoh51aedem7dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW0pi36xKVIlsDNlo58KzsXmw-dWb2KjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815927388460-kp9ihak2ud6u0kcu0fkeoh51aedem7dq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "815927388460-3uq8gcmu8lvfka4i74utbe4vhits3gq6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ug.rtl.brewcrew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815927388460:android:9df0edf088b6d1963ca489",
+        "android_client_info": {
+          "package_name": "ug.rtl.phone_try"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815927388460-kp9ihak2ud6u0kcu0fkeoh51aedem7dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW0pi36xKVIlsDNlo58KzsXmw-dWb2KjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815927388460-kp9ihak2ud6u0kcu0fkeoh51aedem7dq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "815927388460-3uq8gcmu8lvfka4i74utbe4vhits3gq6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ug.rtl.brewcrew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
